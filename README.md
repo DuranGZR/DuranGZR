@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DuranGZR
-- 👀 I’m interested in technology.
-- 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: durangezer2004@gmail.com...
-
-<!---
-DuranGZR/DuranGZR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @DuranGZR  
+- 👀 I’m interested in technology, especially programming and software development.  
+- 🌱 I’m currently learning programming and exploring web development, mobile apps, and artificial intelligence.  
+- 💞️ I’m looking to collaborate on open-source projects, innovative tech ideas, and beginner-friendly coding challenges.  
+- 🛠 Skills: Python, JAVA, HTML, CSS, C#,    
+- 🎯 My Goal: To become a proficient software developer and contribute to impactful projects.  
+- 🎨 Hobbies: Gaming, photography, and exploring new tech.  
+- 🌟 Quote I live by: "The best way to predict the future is to invent it." – Alan Kay  
+- 📫 How to reach me: durangezer2004@gmail.com  
