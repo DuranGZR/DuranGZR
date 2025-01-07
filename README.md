@@ -24,3 +24,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durangzr&show_icons=true&locale=en" alt="durangzr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durangzr&" alt="durangzr" /></p>
+
+<h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baranll0&theme=cobalt"/>
+</div>
+
+<h2 align="center" style="margin-top: 60px;">GitHub Trophies:</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Baranll0&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
