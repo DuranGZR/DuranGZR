@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duran</h1>
 <h3 align="center">I’m interested in technology, especially programming and software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durangzr&label=Profile%20views&color=0e75b6&style=flat" alt="durangzr" /> </p>
+
 
 - 🔭 I’m currently working on **Hittes Salary Prediction**
 
