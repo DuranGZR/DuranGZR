@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Hittes Salary Prediction**
+- 🔭 I’m currently working on **AliagaAI**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **RAG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DuranGZR?tab=repositories](https://github.com/DuranGZR?tab=repositories)
 
