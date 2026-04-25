@@ -1,33 +1,119 @@
-<h1 align="center">Hi 👋, I'm Duran</h1>
-<h3 align="center">I’m interested in technology, especially programming and software development.</h3>
+# 👋 Hi, I'm Duran Gezer
 
+### AI Systems Engineer | Backend & DevOps
 
+I design and build intelligent systems — not just models, but end-to-end AI architectures that work in real-world environments.
 
-- 🔭 I’m currently working on **AliagaAI**
+My focus is on **RAG systems, autonomous AI agents, and scalable backend infrastructures**, combining AI with production-ready engineering.
 
-- 🌱 I’m currently learning **RAG**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/DuranGZR?tab=repositories](https://github.com/DuranGZR?tab=repositories)
+## 🧠 What I Do
 
-- 📫 How to reach me **durangezer2004@gmail.com**
+- Architect **RAG-based AI systems**
+- Build **Autonomous AI Agents**
+- Develop **real-time AI pipelines** (Computer Vision & LLMs)
+- Design **scalable backend systems** with clean architecture
+- Implement **CI/CD pipelines & containerized deployments**
 
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/durangzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durangzr" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## ⚙️ Tech Stack
 
-<h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuranGZR&layout=compact&theme=cobalt" alt=DuranGZR />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuranGZR&show_icons=true&locale=en&theme=cobalt" alt="DuranGZR" />
-  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DuranGZR&count_private=true&theme=react&border_radius=10" alt="DuranGZR" />
-</div>
+### AI / ML
+- Python, TensorFlow, Keras, Scikit-learn  
+- OpenCV, Computer Vision  
+- Reinforcement Learning (Q-Learning)  
+- LLM Ecosystems (Ollama, LLaVA, Groq)
 
-<h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuranGZR&theme=cobalt"/>
-</div>
+### Backend
+- FastAPI, Django  
+- REST API Design  
+- PostgreSQL  
 
+### Frontend
+- React, Next.js, TypeScript  
+
+### DevOps
+- Docker  
+- GitHub Actions (CI/CD)  
+- System Design & Deployment Pipelines  
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Real-Time Visual Understanding AI
+Low-latency pipeline using **LLaVA + Ollama + OpenCV**  
+→ Real-time scene understanding & natural language generation
+
+---
+
+### ✍️ Handwriting Digit Recognition
+Custom CNN trained on MNIST  
+→ Real-time drawing canvas + inference pipeline
+
+---
+
+### 🩺 Diabetes Prediction System
+End-to-end ML pipeline  
+→ EDA, feature engineering, ensemble models (RF, GBM, SVM)
+
+---
+
+### 🤖 XOX Reinforcement Learning Bot
+Tabular Q-Learning agent  
+→ Self-play training with converging optimal strategy
+
+---
+
+### 🧬 AI Dream Interpreter
+Mobile AI system using:
+- RAG architecture  
+- Chain-of-Thought reasoning  
+- OAuth2 + push notifications  
+
+---
+
+## 🏗️ Engineering Mindset
+
+I don't just build models — I build **systems**:
+
+- Clean and modular architecture  
+- Scalable backend design  
+- Production-oriented AI integration  
+- Performance-aware pipelines  
+
+---
+
+## 📊 Currently Focused On
+
+- Advanced **RAG Architectures**
+- **Autonomous AI Agents**
+- **MLOps & System Design**
+- High-performance **AI inference pipelines**
+
+---
+
+## 🤝 Community & Leadership
+
+- Vice Chair — DevOps Committee @ HSD  
+- Leading CI/CD & infrastructure practices  
+- Driving engineering culture in student developer teams  
+
+---
+
+## 📫 Contact
+
+- 📍 İzmir, Türkiye  
+- 📧 contact@durangezer.com  
+- 🔗 LinkedIn  
+- 🌐 Portfolio  
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that think.  
+> Deploy systems that scale.  
+> Engineer systems that last.
