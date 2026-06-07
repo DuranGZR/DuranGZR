@@ -115,15 +115,39 @@ My main goal is to transform AI models into
 
 <!-- ====================================================== -->
 
+
 <div align="center">
 
 ## `TECH.STACK`
 
 ### Artificial Intelligence
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch&theme=dark"/>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python"/>
+      <br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" alt="TensorFlow"/>
+      <br>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" alt="OpenCV"/>
+      <br>
+      <sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" alt="PyTorch"/>
+      <br>
+      <sub><b>PyTorch</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Scikit--learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=22D3EE"/>
@@ -135,21 +159,112 @@ My main goal is to transform AI models into
 <img src="https://img.shields.io/badge/LLaVA-020617?style=for-the-badge&logoColor=22D3EE"/>
 <img src="https://img.shields.io/badge/Groq-020617?style=for-the-badge&logoColor=F55036"/>
 <img src="https://img.shields.io/badge/RAG-020617?style=for-the-badge&logo=databricks&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/AI_AGENTS-020617?style=for-the-badge&logo=robotframework&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-020617?style=for-the-badge&logo=probot&logoColor=22D3EE"/>
+
+<br><br>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,firebase&theme=dark"/>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" alt="FastAPI"/>
+      <br>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" alt="Django"/>
+      <br>
+      <sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL"/>
+      <br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL"/>
+      <br>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" alt="Firebase"/>
+      <br>
+      <sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css&theme=dark"/>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React"/>
+      <br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" alt="Next.js"/>
+      <br>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" alt="TypeScript"/>
+      <br>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" alt="JavaScript"/>
+      <br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML"/>
+      <br>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS"/>
+      <br>
+      <sub><b>CSS</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ### DevOps & Engineering
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman&theme=dark"/>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker"/>
+      <br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" alt="GitHub Actions"/>
+      <br>
+      <sub><b>GitHub Actions</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git"/>
+      <br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman"/>
+      <br>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
