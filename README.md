@@ -183,24 +183,6 @@ My main goal is to transform AI models into
 
 <!-- ====================================================== -->
 
-<!--                       TROPHIES                         -->
-
-<!-- ====================================================== -->
-
-<div align="center">
-
-## `ACHIEVEMENTS`
-
-<br>
-
-<img width="100%" src="https://github-trophies.vercel.app/?username=DuranGZR&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Duran Gezer GitHub trophies" />
-
-</div>
-
----
-
-<!-- ====================================================== -->
-
 <!--                    ACTIVITY GRAPH                      -->
 
 <!-- ====================================================== -->
@@ -235,31 +217,7 @@ My main goal is to transform AI models into
 
 ---
 
-<!-- ====================================================== -->
 
-<!--                  DEVELOPMENT DIRECTION                 -->
-
-<!-- ====================================================== -->
-
-<div align="center">
-
-## `DEVELOPMENT.DIRECTION`
-
-</div>
-
-```mermaid
-flowchart LR
-    A[Artificial Intelligence] --> B[AI Systems Engineering]
-    C[Backend Engineering] --> B
-    D[DevOps and MLOps] --> B
-
-    B --> E[RAG Systems]
-    B --> F[Autonomous Agents]
-    B --> G[Multimodal AI]
-    B --> H[Scalable AI Products]
-```
-
----
 
 <!-- ====================================================== -->
 
