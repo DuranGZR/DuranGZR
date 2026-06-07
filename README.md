@@ -193,7 +193,7 @@ My main goal is to transform AI models into
 
 <br>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DuranGZR&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12"/>
+<img width="100%" src="https://github-trophies.vercel.app/?username=DuranGZR&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Duran Gezer GitHub trophies" />
 
 </div>
 
