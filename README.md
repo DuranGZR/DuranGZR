@@ -287,47 +287,6 @@ alt="GitHub Streak"
 />
 
 </div>
-
----
-
-<!-- ====================================================== -->
-
-<!--                   CONTRIBUTION GRAPH                   -->
-
-<!-- ====================================================== -->
-
-<div align="center">
-
-## `CONTRIBUTION.ACTIVITY`
-
-<img
-width="88%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=DuranGZR&bg_color=020617&color=94A3B8&line=22D3EE&point=F8FAFC&area=true&area_color=0891B2&hide_border=true&radius=12"
-alt="Contribution Graph"
-/>
-
-</div>
-
----
-
-<!-- ====================================================== -->
-
-<!--                    PROFILE SUMMARY                     -->
-
-<!-- ====================================================== -->
-
-<div align="center">
-
-## `PROFILE.SUMMARY`
-
-<img
-width="88%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuranGZR&theme=github_dark"
-alt="Profile Summary"
-/>
-
-</div>
-
 ---
 
 <!-- ====================================================== -->
