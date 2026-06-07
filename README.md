@@ -1,43 +1,55 @@
+````html
 <!-- ====================================================== -->
-
 <!--                    HEADER / BANNER                     -->
-
 <!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0F172A,100:06B6D4&text=DURAN%20GEZER&fontColor=F8FAFC&fontSize=55&fontAlignY=37&desc=AI%20SYSTEMS%20%E2%80%A2%20BACKEND%20%E2%80%A2%20DEVOPS&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img
+  width="92%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:0F172A,100:06B6D4&text=DURAN%20GEZER&fontColor=F8FAFC&fontSize=42&fontAlignY=36&desc=AI%20SYSTEMS%20%E2%80%A2%20BACKEND%20%E2%80%A2%20DEVOPS&descAlignY=58&descSize=15&animation=fadeIn"
+  alt="Duran Gezer Banner"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Building+intelligent+systems.;Engineering+scalable+AI+architectures.;Exploring+RAG+and+autonomous+agents.;Turning+AI+ideas+into+real-world+systems." alt="Typing SVG"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=680&height=48&lines=Building+intelligent+systems.;Engineering+scalable+AI+architectures.;Exploring+RAG+and+autonomous+agents.;Turning+AI+ideas+into+real-world+systems."
+  alt="Typing SVG"
+/>
 
 <br>
 
 <a href="https://github.com/DuranGZR">
-  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+  <img height="24" src="https://img.shields.io/badge/GITHUB-020617?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/durangzr">
-  <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
+  <img height="24" src="https://img.shields.io/badge/LINKEDIN-020617?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
 </a>
 <a href="https://www.durangezer.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
+  <img height="24" src="https://img.shields.io/badge/PORTFOLIO-020617?style=flat-square&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/>
 </a>
 <a href="mailto:contact@durangezer.com">
-  <img src="https://img.shields.io/badge/CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
+  <img height="24" src="https://img.shields.io/badge/CONTACT-020617?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Contact"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DuranGZR&label=PROFILE+VIEWS&style=for-the-badge&color=06B6D4&labelColor=020617"/>
-<img src="https://img.shields.io/github/followers/DuranGZR?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=020617&logo=github"/>
+<img
+  height="23"
+  src="https://komarev.com/ghpvc/?username=DuranGZR&label=PROFILE+VIEWS&style=flat-square&color=06B6D4&labelColor=020617"
+  alt="Profile Views"
+/>
+<img
+  height="23"
+  src="https://img.shields.io/github/followers/DuranGZR?label=FOLLOWERS&style=flat-square&color=06B6D4&labelColor=020617&logo=github"
+  alt="Followers"
+/>
 
 </div>
 
 ---
 
 <!-- ====================================================== -->
-
-<!--                         ABOUT                          -->
-
+<!--                     SYSTEM IDENTITY                    -->
 <!-- ====================================================== -->
 
 <div align="center">
@@ -65,14 +77,12 @@ currently_exploring:
   - High-performance inference
   - Scalable backend systems
   - Production-ready AI deployment
-```
+````
 
 <div align="center">
 
 I focus on building intelligent software systems by combining
 **Artificial Intelligence, Backend Engineering and DevOps.**
-
-<br>
 
 My main goal is to transform AI models into
 **scalable, maintainable and production-oriented systems.**
@@ -83,7 +93,7 @@ My main goal is to transform AI models into
 
 <!-- ====================================================== -->
 
-<!--                      FOCUS AREAS                       -->
+<!--                       CORE FOCUS                       -->
 
 <!-- ====================================================== -->
 
@@ -91,19 +101,17 @@ My main goal is to transform AI models into
 
 ## `CORE.FOCUS`
 
-<br>
-
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-020617?style=for-the-badge&logo=chainlink&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/AI_AGENTS-020617?style=for-the-badge&logo=probot&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/COMPUTER_VISION-020617?style=for-the-badge&logo=opencv&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/BACKEND_SYSTEMS-020617?style=for-the-badge&logo=fastapi&logoColor=22D3EE"/>
+<img height="25" src="https://img.shields.io/badge/RAG_SYSTEMS-020617?style=flat-square&logo=chainlink&logoColor=22D3EE" alt="RAG Systems"/>
+<img height="25" src="https://img.shields.io/badge/AI_AGENTS-020617?style=flat-square&logo=probot&logoColor=22D3EE" alt="AI Agents"/>
+<img height="25" src="https://img.shields.io/badge/COMPUTER_VISION-020617?style=flat-square&logo=opencv&logoColor=22D3EE" alt="Computer Vision"/>
+<img height="25" src="https://img.shields.io/badge/BACKEND_SYSTEMS-020617?style=flat-square&logo=fastapi&logoColor=22D3EE" alt="Backend Systems"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-020617?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-020617?style=for-the-badge&logo=diagramsdotnet&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/MLOPS-020617?style=for-the-badge&logo=mlflow&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/DEVOPS-020617?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
+<img height="25" src="https://img.shields.io/badge/MACHINE_LEARNING-020617?style=flat-square&logo=scikitlearn&logoColor=22D3EE" alt="Machine Learning"/>
+<img height="25" src="https://img.shields.io/badge/SYSTEM_DESIGN-020617?style=flat-square&logo=diagramsdotnet&logoColor=22D3EE" alt="System Design"/>
+<img height="25" src="https://img.shields.io/badge/MLOPS-020617?style=flat-square&logo=mlflow&logoColor=22D3EE" alt="MLOps"/>
+<img height="25" src="https://img.shields.io/badge/DEVOPS-020617?style=flat-square&logo=docker&logoColor=22D3EE" alt="DevOps"/>
 
 </div>
 
@@ -115,7 +123,6 @@ My main goal is to transform AI models into
 
 <!-- ====================================================== -->
 
-
 <div align="center">
 
 ## `TECH.STACK`
@@ -124,153 +131,144 @@ My main goal is to transform AI models into
 
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python"/>
+    <td align="center" width="78">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="38" alt="Python"/>
       <br>
-      <sub><b>Python</b></sub>
+      <sub>Python</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" alt="TensorFlow"/>
+    <td align="center" width="78">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="38" alt="TensorFlow"/>
       <br>
-      <sub><b>TensorFlow</b></sub>
+      <sub>TensorFlow</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" alt="OpenCV"/>
+    <td align="center" width="78">
+      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="38" alt="OpenCV"/>
       <br>
-      <sub><b>OpenCV</b></sub>
+      <sub>OpenCV</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" alt="PyTorch"/>
+    <td align="center" width="78">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="38" alt="PyTorch"/>
       <br>
-      <sub><b>PyTorch</b></sub>
+      <sub>PyTorch</sub>
     </td>
   </tr>
 </table>
 
-<br>
-
-<img src="https://img.shields.io/badge/Scikit--learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Ollama-020617?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Gemini-020617?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
+<img height="23" src="https://img.shields.io/badge/Scikit--learn-020617?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/>
+<img height="23" src="https://img.shields.io/badge/LangChain-020617?style=flat-square&logo=langchain&logoColor=22D3EE" alt="LangChain"/>
+<img height="23" src="https://img.shields.io/badge/Ollama-020617?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama"/>
+<img height="23" src="https://img.shields.io/badge/Gemini-020617?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/LLaVA-020617?style=for-the-badge&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Groq-020617?style=for-the-badge&logoColor=F55036"/>
-<img src="https://img.shields.io/badge/RAG-020617?style=for-the-badge&logo=databricks&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/AI_AGENTS-020617?style=for-the-badge&logo=probot&logoColor=22D3EE"/>
-
-<br><br>
+<img height="23" src="https://img.shields.io/badge/LLaVA-020617?style=flat-square&logoColor=22D3EE" alt="LLaVA"/>
+<img height="23" src="https://img.shields.io/badge/Groq-020617?style=flat-square&logoColor=F55036" alt="Groq"/>
+<img height="23" src="https://img.shields.io/badge/RAG-020617?style=flat-square&logo=databricks&logoColor=22D3EE" alt="RAG"/>
+<img height="23" src="https://img.shields.io/badge/AI_AGENTS-020617?style=flat-square&logo=probot&logoColor=22D3EE" alt="AI Agents"/>
 
 ### Backend & Database
 
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" alt="FastAPI"/>
+    <td align="center" width="78">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="38" alt="FastAPI"/>
       <br>
-      <sub><b>FastAPI</b></sub>
+      <sub>FastAPI</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" alt="Django"/>
+    <td align="center" width="78">
+      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="38" alt="Django"/>
       <br>
-      <sub><b>Django</b></sub>
+      <sub>Django</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL"/>
+    <td align="center" width="78">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="38" alt="PostgreSQL"/>
       <br>
-      <sub><b>PostgreSQL</b></sub>
+      <sub>PostgreSQL</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL"/>
+    <td align="center" width="78">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="38" alt="MySQL"/>
       <br>
-      <sub><b>MySQL</b></sub>
+      <sub>MySQL</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" alt="Firebase"/>
+    <td align="center" width="78">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="38" alt="Firebase"/>
       <br>
-      <sub><b>Firebase</b></sub>
+      <sub>Firebase</sub>
     </td>
   </tr>
 </table>
-
-<br>
 
 ### Frontend
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React"/>
+    <td align="center" width="74">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="38" alt="React"/>
       <br>
-      <sub><b>React</b></sub>
+      <sub>React</sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" alt="Next.js"/>
+    <td align="center" width="74">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="38" alt="Next.js"/>
       <br>
-      <sub><b>Next.js</b></sub>
+      <sub>Next.js</sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" alt="TypeScript"/>
+    <td align="center" width="74">
+      <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="38" alt="TypeScript"/>
       <br>
-      <sub><b>TypeScript</b></sub>
+      <sub>TypeScript</sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" alt="JavaScript"/>
+    <td align="center" width="74">
+      <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="38" alt="JavaScript"/>
       <br>
-      <sub><b>JavaScript</b></sub>
+      <sub>JavaScript</sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML"/>
+    <td align="center" width="74">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="38" alt="HTML"/>
       <br>
-      <sub><b>HTML</b></sub>
+      <sub>HTML</sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS"/>
+    <td align="center" width="74">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="38" alt="CSS"/>
       <br>
-      <sub><b>CSS</b></sub>
+      <sub>CSS</sub>
     </td>
   </tr>
 </table>
-
-<br>
 
 ### DevOps & Engineering
 
 <table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker"/>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="38" alt="Docker"/>
       <br>
-      <sub><b>Docker</b></sub>
+      <sub>Docker</sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" alt="GitHub Actions"/>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="38" alt="GitHub Actions"/>
       <br>
-      <sub><b>GitHub Actions</b></sub>
+      <sub>GitHub Actions</sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git"/>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="38" alt="Git"/>
       <br>
-      <sub><b>Git</b></sub>
+      <sub>Git</sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman"/>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="38" alt="Postman"/>
       <br>
-      <sub><b>Postman</b></sub>
+      <sub>Postman</sub>
     </td>
   </tr>
 </table>
 
 </div>
 
-
 ---
 
 <!-- ====================================================== -->
 
-<!--                     GITHUB STATS                       -->
+<!--                    GITHUB ANALYTICS                    -->
 
 <!-- ====================================================== -->
 
@@ -278,19 +276,35 @@ My main goal is to transform AI models into
 
 ## `GITHUB.ANALYTICS`
 
+<img
+width="46%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuranGZR&theme=github_dark"
+alt="GitHub Stats"
+/> <img
+width="46%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuranGZR&theme=github_dark&utcOffset=3"
+alt="Productive Time"
+/>
+
 <br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuranGZR&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuranGZR&theme=github_dark&utcOffset=3"/>
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DuranGZR&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuranGZR&theme=github_dark"/>
+<img
+width="46%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DuranGZR&theme=github_dark"
+alt="Top Languages by Repository"
+/> <img
+width="46%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuranGZR&theme=github_dark"
+alt="Top Languages by Commit"
+/>
 
 <br><br>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=DuranGZR&hide_border=true&border_radius=15&background=020617&stroke=164E63&ring=22D3EE&fire=06B6D4&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"/>
+<img
+width="62%"
+src="https://streak-stats.demolab.com?user=DuranGZR&hide_border=true&border_radius=12&background=020617&stroke=164E63&ring=22D3EE&fire=06B6D4&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"
+alt="GitHub Streak"
+/>
 
 </div>
 
@@ -298,7 +312,7 @@ My main goal is to transform AI models into
 
 <!-- ====================================================== -->
 
-<!--                    ACTIVITY GRAPH                      -->
+<!--                   CONTRIBUTION GRAPH                   -->
 
 <!-- ====================================================== -->
 
@@ -306,9 +320,11 @@ My main goal is to transform AI models into
 
 ## `CONTRIBUTION.ACTIVITY`
 
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DuranGZR&bg_color=020617&color=94A3B8&line=22D3EE&point=F8FAFC&area=true&area_color=0891B2&hide_border=true&radius=15"/>
+<img
+width="88%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=DuranGZR&bg_color=020617&color=94A3B8&line=22D3EE&point=F8FAFC&area=true&area_color=0891B2&hide_border=true&radius=12"
+alt="Contribution Graph"
+/>
 
 </div>
 
@@ -324,19 +340,19 @@ My main goal is to transform AI models into
 
 ## `PROFILE.SUMMARY`
 
-<br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuranGZR&theme=github_dark"/>
+<img
+width="88%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuranGZR&theme=github_dark"
+alt="Profile Summary"
+/>
 
 </div>
 
 ---
 
-
-
 <!-- ====================================================== -->
 
-<!--                       PHILOSOPHY                       -->
+<!--                 ENGINEERING PHILOSOPHY                 -->
 
 <!-- ====================================================== -->
 
@@ -344,11 +360,10 @@ My main goal is to transform AI models into
 
 ## `ENGINEERING.PHILOSOPHY`
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=750&height=100&lines=Build+systems+that+think.;Deploy+systems+that+scale.;Engineer+systems+that+last."/>
-
-<br>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=600&height=55&lines=Build+systems+that+think.;Deploy+systems+that+scale.;Engineer+systems+that+last."
+alt="Engineering Philosophy"
+/>
 
 > **A model is only the beginning.**
 > Real engineering starts when it becomes a reliable system.
@@ -368,11 +383,20 @@ My main goal is to transform AI models into
 ### Let's build intelligent systems.
 
 <a href="mailto:contact@durangezer.com">
-  <img src="https://img.shields.io/badge/CONTACT_ME-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    height="26"
+    src="https://img.shields.io/badge/CONTACT_ME-06B6D4?style=flat-square&logo=gmail&logoColor=white"
+    alt="Contact Me"
+  />
 </a>
 
-<br><br>
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06B6D4,45:0F172A,100:020617&section=footer"/>
+<img
+width="92%"
+src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:06B6D4,45:0F172A,100:020617&section=footer"
+alt="Footer"
+/>
 
 </div>
+```
