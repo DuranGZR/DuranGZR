@@ -139,7 +139,7 @@ My main goal is to transform AI models into
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,postgres,mysql,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,firebase&theme=dark"/>
 
 ### Frontend
 
@@ -147,7 +147,7 @@ My main goal is to transform AI models into
 
 ### DevOps & Engineering
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,bash,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,postman&theme=dark"/>
 
 </div>
 
