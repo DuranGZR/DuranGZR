@@ -30,20 +30,6 @@
 <a href="mailto:contact@durangezer.com">
   <img height="24" src="https://img.shields.io/badge/CONTACT-020617?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Contact"/>
 </a>
-
-<br><br>
-
-<img
-  height="23"
-  src="https://komarev.com/ghpvc/?username=DuranGZR&label=PROFILE+VIEWS&style=flat-square&color=06B6D4&labelColor=020617"
-  alt="Profile Views"
-/>
-<img
-  height="23"
-  src="https://img.shields.io/github/followers/DuranGZR?label=FOLLOWERS&style=flat-square&color=06B6D4&labelColor=020617&logo=github"
-  alt="Followers"
-/>
-
 </div>
 
 ---
@@ -80,13 +66,11 @@ currently_exploring:
 ````
 
 <div align="center">
-
 I focus on building intelligent software systems by combining
 **Artificial Intelligence, Backend Engineering and DevOps.**
 
 My main goal is to transform AI models into
 **scalable, maintainable and production-oriented systems.**
-
 </div>
 
 ---
@@ -98,21 +82,17 @@ My main goal is to transform AI models into
 <!-- ====================================================== -->
 
 <div align="center">
-
 ## `CORE.FOCUS`
 
 <img height="25" src="https://img.shields.io/badge/RAG_SYSTEMS-020617?style=flat-square&logo=chainlink&logoColor=22D3EE" alt="RAG Systems"/>
 <img height="25" src="https://img.shields.io/badge/AI_AGENTS-020617?style=flat-square&logo=probot&logoColor=22D3EE" alt="AI Agents"/>
 <img height="25" src="https://img.shields.io/badge/COMPUTER_VISION-020617?style=flat-square&logo=opencv&logoColor=22D3EE" alt="Computer Vision"/>
 <img height="25" src="https://img.shields.io/badge/BACKEND_SYSTEMS-020617?style=flat-square&logo=fastapi&logoColor=22D3EE" alt="Backend Systems"/>
-
 <br>
-
 <img height="25" src="https://img.shields.io/badge/MACHINE_LEARNING-020617?style=flat-square&logo=scikitlearn&logoColor=22D3EE" alt="Machine Learning"/>
 <img height="25" src="https://img.shields.io/badge/SYSTEM_DESIGN-020617?style=flat-square&logo=diagramsdotnet&logoColor=22D3EE" alt="System Design"/>
 <img height="25" src="https://img.shields.io/badge/MLOPS-020617?style=flat-square&logo=mlflow&logoColor=22D3EE" alt="MLOps"/>
 <img height="25" src="https://img.shields.io/badge/DEVOPS-020617?style=flat-square&logo=docker&logoColor=22D3EE" alt="DevOps"/>
-
 </div>
 
 ---
@@ -298,7 +278,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 alt="Top Languages by Commit"
 />
 
-<br><br>
+<br>
 
 <img
 width="62%"
