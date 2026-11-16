@@ -67,7 +67,7 @@ currently_exploring:
 
 <div align="center">
 I focus on building intelligent software systems by combining
-**Artificial Intelligence, Backend Engineering and DevOps.**
+Artificial Intelligence, Backend Engineering and DevOps.
 
 My main goal is to transform AI models into
 **scalable, maintainable and production-oriented systems.**
@@ -82,7 +82,7 @@ My main goal is to transform AI models into
 <!-- ====================================================== -->
 
 <div align="center">
-## `CORE.FOCUS`
+
 
 <img height="25" src="https://img.shields.io/badge/RAG_SYSTEMS-020617?style=flat-square&logo=chainlink&logoColor=22D3EE" alt="RAG Systems"/>
 <img height="25" src="https://img.shields.io/badge/AI_AGENTS-020617?style=flat-square&logo=probot&logoColor=22D3EE" alt="AI Agents"/>
@@ -256,28 +256,6 @@ My main goal is to transform AI models into
 
 ## `GITHUB.ANALYTICS`
 
-<img
-width="46%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuranGZR&theme=github_dark"
-alt="GitHub Stats"
-/> <img
-width="46%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuranGZR&theme=github_dark&utcOffset=3"
-alt="Productive Time"
-/>
-
-<br>
-
-<img
-width="46%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DuranGZR&theme=github_dark"
-alt="Top Languages by Repository"
-/> <img
-width="46%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuranGZR&theme=github_dark"
-alt="Top Languages by Commit"
-/>
-
 <br>
 
 <img
@@ -287,7 +265,7 @@ alt="GitHub Streak"
 />
 
 </div>
----
+
 
 <!-- ====================================================== -->
 
@@ -309,7 +287,7 @@ alt="Engineering Philosophy"
 
 </div>
 
----
+
 
 <!-- ====================================================== -->
 
